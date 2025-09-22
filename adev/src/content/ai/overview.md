@@ -1,4 +1,4 @@
-<!-- TODO: need an Angular + AI logo -->
+
 <docs-decorative-header title="Build with AI" imgSrc="adev/src/assets/images/what_is_angular.svg"> <!-- markdownlint-disable-line -->
 Build AI-powered apps. Develop faster with AI.
 </docs-decorative-header>
